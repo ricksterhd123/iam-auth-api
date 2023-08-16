@@ -1,0 +1,11 @@
+{
+  "name": "@ricksterhd123/backend-api",
+  "version": "1.0.0",
+  "description": "A backend API with IAM auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ricksterhd123",
+  "license": "ISC"
+}
